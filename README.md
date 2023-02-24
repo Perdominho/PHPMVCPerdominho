@@ -5,9 +5,6 @@
 
 This *PHP Blog System* has an MVC pattern, uses Traits (PHP 5.4), Namespace (PHP 5.3), Singleton pattern, PDO (PHP 5.1) and the new PHP Password Hashing feature (PHP 5.5).
 
-The project was a *PHP Challenge Project* I have done.
-
-
 ## Why this MVC Blog System can be very Useful for You?
 
 If you need to code a simple website under a Professional and very nice/clean code (as I really enjoy doing), this script will be very useful in order to *start on good basis* and *save time and money*.
